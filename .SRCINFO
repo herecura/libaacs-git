@@ -1,6 +1,6 @@
 pkgbase = libaacs-git
 	pkgdesc = Blu-Ray aacs library
-	pkgver = 20130404
+	pkgver = 20130304.863e0a5
 	pkgrel = 1
 	url = http://www.videolan.org/developers/libaacs.html
 	arch = i686
@@ -11,6 +11,8 @@ pkgbase = libaacs-git
 	makedepends = byacc
 	provides = libaacs
 	conflicts = libaacs
+	source = libaacs::git://git.videolan.org/libaacs.git
+	sha256sums = SKIP
 
 pkgname = libaacs-git
 
