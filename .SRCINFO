@@ -1,6 +1,6 @@
 pkgbase = libaacs-git
 	pkgdesc = Blu-Ray aacs library
-	pkgver = 20130912.af331cf
+	pkgver = 20130913.63579ea
 	pkgrel = 1
 	url = http://www.videolan.org/developers/libaacs.html
 	arch = i686
