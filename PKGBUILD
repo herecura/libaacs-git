@@ -3,7 +3,7 @@
 
 pkgname=libaacs-git
 _gitname="libaacs"
-pkgver=20160321.d4c4c7f
+pkgver=20170303.6d18c1c
 pkgrel=1
 pkgdesc="Blu-Ray aacs library"
 arch=('i686' 'x86_64')
